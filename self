@@ -1,4 +1,4 @@
-aleo smart contract
+aleo smart contrac
 turne
 ......
 نصب پیش نیازها 
