@@ -1,7 +1,7 @@
 aleo smart contrac
 turne
 ......
-نصب پیش نیازها 
+نصب پیش نیازها ش
 ------------------------------------------------------------------
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
